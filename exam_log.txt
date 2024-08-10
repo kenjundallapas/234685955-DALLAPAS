@@ -1,0 +1,18 @@
+    1  kill 8838
+    2  pkg install gh
+    3  git clone https://github.com/naneunkenny/234685955-DALLAPAS.git
+    4  pkg install git
+    5  pkg update
+    6  pkg install git
+    7  git clone https://github.com/naneunkenny/234685955-DALLAPAS.git
+    8  cd 234685955-DALLAPAD
+    9  cd 234685955-DALLAPAS
+   10  ls
+   11  nano hello.py
+   12  pkg install jdk
+   13  pkg install search
+   14  exit
+   15  cd 234685955-DALLAPd
+   16  cd 234685955-DALLAPAS
+   17  git checkout -b finalexam
+   18  history > exam_log.txt
