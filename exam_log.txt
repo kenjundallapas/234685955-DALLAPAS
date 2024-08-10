@@ -1,38 +1,109 @@
-    1  kill 8838
-    2  pkg install gh
-    3  git clone https://github.com/naneunkenny/234685955-DALLAPAS.git
-    4  pkg install git
-    5  pkg update
-    6  pkg install git
-    7  git clone https://github.com/naneunkenny/234685955-DALLAPAS.git
-    8  cd 234685955-DALLAPAD
-    9  cd 234685955-DALLAPAS
-   10  ls
-   11  nano hello.py
-   12  pkg install jdk
-   13  pkg install search
-   14  exit
-   15  cd 234685955-DALLAPd
-   16  cd 234685955-DALLAPAS
-   17  git checkout -b finalexam
-   18  history > exam_log.txt
-   19  git add . exam_log.txt
-   20  git commit -m "Added exam_log.txt with command history"
-   21  git oush origin finalexam
-   22  git push origin finalexam
-   23  git checkout finalexam
-   24  git log -p --since='2024-08-08' --until='2024-8-10' --date=short --exam_log.txt --reverse -n 1
-   25  git log -p --since='2025-08-08' --until='2024-08-10' --date=short-- exam_log.txt --reverse -n 1
-   26  git log -p --since='2024-08-08' --until='2024-08-10' --date=short --reverse -n 1 > exam_log.txt
-   27  cat exam_log.txt
-   28  cat notes.txt
-   29  cd linux_practice
-   30  cd
-   31  ls
-   32  cat exam_log.txt
-   33  cd ~
-   34  git checkout -b fibalexam
-   35  git checkout -b finalexam
-   36  cd 234685955-DALLAPAS
-   37  git checkout -b finalexam
-   38  history > ~/exam_log.txt
+1  mkdir linux_practice
+2  cd linux_pratice
+3  mdir linux_practice
+4  echo linux_practice
+5  cd linux_practice
+6  cd
+7  cd linux practice
+8  cd linux_practice
+9  cd 234685955-DALLAPAS
+10  cd linux_practice
+11  notes.txt
+12  create notes.txt
+13  touch notes.txt
+14  notes.txt
+15  ls
+16  cat notes.txt
+17  echo > notes.txt
+18  ls
+19  ls >> notes.txt
+20  cat noted.txt
+21  cat notes.txt
+22  notes.txt
+23  echo Hello, Linux!
+24  This is a practical exam >> notes.txt
+25  echo Hello, Linux! > notes.txt
+26  ls
+27  echo This is a practical exam. >> notes
+28  echo This is a practical exam. >> notes.txt
+29  cat notes.txt
+30  head notes.txt
+31  tail notes.txt
+32  mkdir subdir
+33  cd subdir
+34  mv notes.txt subdir
+35  move notes.txt subdir
+36  mv notes
+37  mv notes.txt subdir
+38  ls
+39  cd..
+40  cd linux_practice
+41  mv notes.txt 234685955/DALLAPAS/linux_practice/subdir
+42  notes.txt
+43  mv notes.txt subdir
+44  cd..
+45  cd linux_practice
+46  ls >> notes.txt
+47  cat notes.txt
+48  cd linux_pracrice
+49  cd linux_practice
+50  cd..
+51  cd
+52  cd 234685955-DALLAPAD
+53  cd 234685955-DALLAPAS
+54  cd linux_practice
+55  s
+56  ls
+57  ls notes.txt
+58  echo "Hello, Linux!" > notes.txt
+59  echo "This is a practical exam." >> notes.txt
+60  head -n 1 notes.txt
+61  tail -n 1 notes.txt
+62  mkdir subdir
+63  mv notes.txt subdir/
+64  mv subdir practice subdir
+65  cd subdir
+66  ren subdir practice_subdir
+67  mv subdir practice_subdir
+68  cd ..
+69  mv subdir practice_subdir
+70  cp practice_subdir/notes.txt .
+71  cd practice_subdir
+72  ld
+73  ls
+74  date
+75  uptime
+76  du -sh ~
+77  ssh -v
+78  php -v
+79  pkg install php
+80  php -v
+81  mysql --version
+82  pkg install mariadb
+83  mysql --version
+84  apache2 -v
+85  apachectl -v
+86  python --version
+87  pkg install python
+88  python --version
+89  java -version
+90  git checkout -b finalexam
+91  git add notes.txt
+92  git comit -m "Add notes.txt and Termux commands"
+93  git commit -m "Added notes.txt and Termux commands"
+94  git config --global lkennylrewind@gmail.com
+95  git config --global lkennylrewind@gmail.com git config --global naneunkenny
+96  git config --global user.email "lkennylrewind@gmail.com"
+97  git config --global user.name "naneunkenny"
+98  git commit -m "Added notes.txt and termux commands"
+99  git push origin finalexam
+100  cd ~
+101  rm -r linux_practice
+102  ls ~
+103  cd 234685955-DALLAPAS/linux_practice
+104  rm -r linux_practice
+105  cd ..
+106  rm -r linux_practice
+107  cd ~
+108  history > exam_log.txt
+
