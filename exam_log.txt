@@ -16,3 +16,23 @@
    16  cd 234685955-DALLAPAS
    17  git checkout -b finalexam
    18  history > exam_log.txt
+   19  git add . exam_log.txt
+   20  git commit -m "Added exam_log.txt with command history"
+   21  git oush origin finalexam
+   22  git push origin finalexam
+   23  git checkout finalexam
+   24  git log -p --since='2024-08-08' --until='2024-8-10' --date=short --exam_log.txt --reverse -n 1
+   25  git log -p --since='2025-08-08' --until='2024-08-10' --date=short-- exam_log.txt --reverse -n 1
+   26  git log -p --since='2024-08-08' --until='2024-08-10' --date=short --reverse -n 1 > exam_log.txt
+   27  cat exam_log.txt
+   28  cat notes.txt
+   29  cd linux_practice
+   30  cd
+   31  ls
+   32  cat exam_log.txt
+   33  cd ~
+   34  git checkout -b fibalexam
+   35  git checkout -b finalexam
+   36  cd 234685955-DALLAPAS
+   37  git checkout -b finalexam
+   38  history > ~/exam_log.txt
